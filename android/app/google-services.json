@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "807916195351",
+    "project_id": "mario-16667",
+    "storage_bucket": "mario-16667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807916195351:android:764cef580161c659e81652",
+        "android_client_info": {
+          "package_name": "com.example.mario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807916195351-3donms1jnm871pn6bttjr9k7l5mcic60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5eUD5uw6DcT0TFmKh5M3H6VDFH51G6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807916195351-3donms1jnm871pn6bttjr9k7l5mcic60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807916195351-pkohc34tphvmrb3tgad9m441jqgo0ldo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mario"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
